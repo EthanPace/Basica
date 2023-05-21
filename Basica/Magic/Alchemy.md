@@ -1,0 +1,4 @@
+---
+category: magic
+---
+### Scribing
